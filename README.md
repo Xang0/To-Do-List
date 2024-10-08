@@ -2,16 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+# Descrição
 
-This project is a starting point for a Flutter application.
+O projeto se resume a uma aplicação em flutter de uma lista de tarefas em que é possível acresecntar, por meio do botão com icone de +, e excluir tarefas, com o botão de - para exluir tudo ou pressionando sob o item desejado, registradas pelo usuário
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# To-Do-List
+O projeito foi feito seguindo os vídios de introdução ao Flutter do canal do Youtube David Willyan | Flutter
